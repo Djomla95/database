@@ -1,0 +1,56 @@
+{
+  "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342": {
+    "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
+    "className": "U11 - 2011",
+    "id": 1,
+    "orderNumber": 4
+  },
+  "28801ff0-36c1-4679-9c91-cf02d1a493e1": {
+    "classId": "28801ff0-36c1-4679-9c91-cf02d1a493e1",
+    "className": "WU11 - 2011",
+    "id": 1,
+    "orderNumber": 10
+  },
+  "35af310e-d4c2-44af-abf2-cfe8b2756fe7": {
+    "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
+    "className": "U10 - 2012",
+    "id": 1,
+    "orderNumber": 3
+  },
+  "55dcd2fa-b014-4003-a8ed-58309bf5d9f8": {
+    "classId": "55dcd2fa-b014-4003-a8ed-58309bf5d9f8",
+    "className": "WU13 - 2009",
+    "id": 1,
+    "orderNumber": 11
+  },
+  "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1": {
+    "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
+    "className": "U15 - 2007",
+    "id": 1,
+    "orderNumber": 8
+  },
+  "74a49fcc-a117-48ef-b58a-20757db2ef09": {
+    "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
+    "className": "U9 - 2013",
+    "id": 1,
+    "orderNumber": 2
+  },
+  "b79882a2-6260-4364-ba7f-bbdf8dcade94": {
+    "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
+    "className": "U8 - 2014",
+    "id": 1,
+    "orderNumber": 1
+  },
+  "f281f25c-ff65-490b-bd75-65a48703ecf5": {
+    "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
+    "className": "U13 - 2009",
+    "id": 1,
+    "orderNumber": 6
+  },
+  "f305465c-5799-404c-9672-a66c8b38ab5f": {
+    "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
+    "className": "U12 - 2010",
+    "id": 1,
+    "orderNumber": 5
+  }
+}
