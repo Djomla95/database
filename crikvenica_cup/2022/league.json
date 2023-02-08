@@ -5,7 +5,8 @@
     "id": 1,
     "leagueId": "02030596-26bd-4713-a8e0-32c715762bd9",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 9
+    "orderNumber": 9,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -13,7 +14,8 @@
     "id": 1,
     "leagueId": "04769f84-7322-4bd0-a54b-04b39d31accd",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -21,7 +23,8 @@
     "id": 1,
     "leagueId": "06cb30a5-70b5-443c-ac47-fef8c63504c7",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 12
+    "orderNumber": 12,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -29,7 +32,8 @@
     "id": 1,
     "leagueId": "0ccba542-6d10-427f-95fb-c4c16d9d8915",
     "leagueName": "GRUPA H",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -37,7 +41,8 @@
     "id": 1,
     "leagueId": "0cf0b229-cd49-43e5-8df8-06088b715bf7",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -45,7 +50,8 @@
     "id": 1,
     "leagueId": "0d4f4c9a-97d9-409c-8d53-8ca1fb3d8758",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -53,7 +59,8 @@
     "id": 1,
     "leagueId": "0f6ee28c-d4ec-40e5-bd64-4730f0dd6dde",
     "leagueName": "GRUPA H",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -61,7 +68,8 @@
     "id": 1,
     "leagueId": "17b52e2e-b2d4-4556-845c-70a3846465d4",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -69,7 +77,8 @@
     "id": 1,
     "leagueId": "1bcfe83c-32bd-4866-9507-df7ceb7b969f",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 13
+    "orderNumber": 13,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -77,7 +86,8 @@
     "id": 1,
     "leagueId": "20f11ca3-040a-40c7-8c20-e7b5913cb39d",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -85,7 +95,8 @@
     "id": 1,
     "leagueId": "2156efdf-d6c2-40b7-8c2d-903278cc26fa",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -93,7 +104,8 @@
     "id": 1,
     "leagueId": "215d6e3f-80ab-46ea-a2a0-4db49722ba88",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -101,7 +113,8 @@
     "id": 1,
     "leagueId": "2261cc51-34af-4a0f-a235-22df85e35f0e",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -109,7 +122,8 @@
     "id": 1,
     "leagueId": "2bbb4f9b-ffc4-4fcd-90f8-c1b65aac75fb",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -117,7 +131,8 @@
     "id": 1,
     "leagueId": "2c180f17-f225-464d-93b7-a461ca2a585c",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -125,7 +140,8 @@
     "id": 1,
     "leagueId": "2ea62844-2289-43dc-bd4c-6d2513533cd1",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -133,7 +149,8 @@
     "id": 1,
     "leagueId": "3089cb1e-ca4d-4571-9f89-eca0a6f3e610",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -141,7 +158,8 @@
     "id": 1,
     "leagueId": "368d124c-f37f-4561-89ef-f937f8bfb093",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -149,7 +167,8 @@
     "id": 1,
     "leagueId": "3870bd8c-ec5a-4832-b435-0bde9761008e",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -157,7 +176,8 @@
     "id": 1,
     "leagueId": "38caf0a0-dca1-478b-b279-359a260863bf",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -165,7 +185,8 @@
     "id": 1,
     "leagueId": "390b7274-1f84-4d25-a778-b5c43c02280c",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -173,7 +194,8 @@
     "id": 1,
     "leagueId": "39c01c94-67c2-49b6-a77b-f5f6e4bccbaa",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -181,7 +203,8 @@
     "id": 1,
     "leagueId": "3c6816b4-914f-4400-9883-10882e3614bf",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 9
+    "orderNumber": 9,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -189,7 +212,8 @@
     "id": 1,
     "leagueId": "3de15baa-d37c-49c0-b64b-5639fe73ff2a",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -197,7 +221,8 @@
     "id": 1,
     "leagueId": "3e66e67a-fc8b-47fa-82e0-90b9ff78f1d2",
     "leagueName": "GRUPA M",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -205,7 +230,8 @@
     "id": 1,
     "leagueId": "45076268-2941-4176-83ef-78dcfdab58b3",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -213,7 +239,8 @@
     "id": 1,
     "leagueId": "45cce1af-5a8b-4f41-a3e5-e1763cfab10f",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -221,7 +248,8 @@
     "id": 1,
     "leagueId": "49ca8b08-d96d-4b3b-a1d3-36c4590f6ff1",
     "leagueName": "GRUPA G",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -229,7 +257,8 @@
     "id": 1,
     "leagueId": "4b226526-ae75-4a85-ba93-a02e45218d92",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -237,7 +266,8 @@
     "id": 1,
     "leagueId": "4d5e8cb5-ec7b-498c-9068-882d42fc6e9d",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -245,7 +275,8 @@
     "id": 1,
     "leagueId": "53bd398d-892a-46b4-a77d-2c68dccc77f0",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -253,7 +284,8 @@
     "id": 1,
     "leagueId": "57e7033b-7bd4-4468-a7c3-d9db81b93e18",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -261,7 +293,8 @@
     "id": 1,
     "leagueId": "580ae1a2-a255-4b4b-bc50-e8ad49c811a4",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -269,7 +302,8 @@
     "id": 1,
     "leagueId": "58302a8d-6c6d-4560-b2c0-bdc8064ee759",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -277,7 +311,8 @@
     "id": 1,
     "leagueId": "5a2507df-705b-47a1-9d6b-575032b50eeb",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 14
+    "orderNumber": 14,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -285,7 +320,8 @@
     "id": 1,
     "leagueId": "5a51a915-3449-4830-a808-ddf324d1da0d",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -293,7 +329,8 @@
     "id": 1,
     "leagueId": "614b4282-ba97-494c-be26-a67be8f41cb9",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -301,7 +338,8 @@
     "id": 1,
     "leagueId": "61ec44b8-6958-4c59-aba2-87569eb58f15",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 10
+    "orderNumber": 10,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -309,7 +347,8 @@
     "id": 1,
     "leagueId": "62211ac0-ec13-47f2-8a2f-caeb073cae59",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -317,7 +356,8 @@
     "id": 1,
     "leagueId": "668a9d19-afae-4b39-b502-c466bb43a52a",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -325,7 +365,8 @@
     "id": 1,
     "leagueId": "6816e69b-9a32-4395-b7d7-0b3d770b44df",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -333,7 +374,8 @@
     "id": 1,
     "leagueId": "6ee70ffb-6811-483b-98bc-952000a65432",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "28801ff0-36c1-4679-9c91-cf02d1a493e1",
@@ -341,7 +383,8 @@
     "id": 1,
     "leagueId": "6f147d9b-3a14-4b54-88f4-706222c06f97",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -349,7 +392,8 @@
     "id": 1,
     "leagueId": "7467512d-531b-4983-8452-2d1bbce7fa6d",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -357,7 +401,8 @@
     "id": 1,
     "leagueId": "79ca7d5e-7499-41aa-aa43-14a7f2a8c60c",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -365,7 +410,8 @@
     "id": 1,
     "leagueId": "80913442-17d8-4a01-abbf-5a66b771ced1",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "55dcd2fa-b014-4003-a8ed-58309bf5d9f8",
@@ -373,7 +419,8 @@
     "id": 1,
     "leagueId": "81c37912-d94c-489d-a60f-2566632d1419",
     "leagueName": "GRUPA B",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -381,7 +428,8 @@
     "id": 1,
     "leagueId": "823ea82a-1ec2-4ae0-b60d-84fda31c58a1",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
  {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -389,7 +437,8 @@
     "id": 1,
     "leagueId": "827dee1c-4706-4107-b6cf-e626fd5b9527",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -397,7 +446,8 @@
     "id": 1,
     "leagueId": "838ebeec-1110-419d-bfb3-5175937f4485",
     "leagueName": "GRUPA K",
-    "orderNumber": 9
+    "orderNumber": 9,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -405,7 +455,8 @@
     "id": 1,
     "leagueId": "86dd87fb-298a-4317-8e93-34d271503c54",
     "leagueName": "GRUPA G",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -413,7 +464,8 @@
     "id": 1,
     "leagueId": "8b46f63d-e5d2-4352-980e-bebf3c33f205",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 11
+    "orderNumber": 11,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -421,7 +473,8 @@
     "id": 1,
     "leagueId": "8e2e3784-0503-47a2-9b26-72681e58e93b",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -429,7 +482,8 @@
     "id": 1,
     "leagueId": "99682ccc-a0b7-4807-8b81-230656e777bb",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 9
+    "orderNumber": 9,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -437,7 +491,8 @@
     "id": 1,
     "leagueId": "9c0ca635-a4a6-4225-9a80-fe3cc25e95e8",
     "leagueName": "GRUPA H",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -445,7 +500,8 @@
     "id": 1,
     "leagueId": "9d413c46-c1a6-4cf6-8f65-ccf03891e1bb",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -453,7 +509,8 @@
     "id": 1,
     "leagueId": "a179b919-c7c0-436c-b434-a730797e19e2",
     "leagueName": "1/4 FINALA",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
  {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -461,7 +518,8 @@
     "id": 1,
     "leagueId": "a6013dd4-42ce-4a10-b4b8-94adfe8c9e86",
     "leagueName": "GRUPA P",
-    "orderNumber": 11
+    "orderNumber": 11,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -469,7 +527,8 @@
     "id": 1,
     "leagueId": "a8511a08-dbf6-416d-baff-daf2f9839137",
     "leagueName": "GRUPA G",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -477,7 +536,8 @@
     "id": 1,
     "leagueId": "aae6f473-3f1c-451a-8766-49134fac3750",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -485,7 +545,8 @@
     "id": 1,
     "leagueId": "ad7052be-33e3-413a-9d3e-245365a1c390",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
@@ -493,7 +554,8 @@
     "id": 1,
     "leagueId": "aeebc92a-fe25-4eca-a687-f530ee19db6c",
     "leagueName": "FINALE",
-    "orderNumber": 99
+    "orderNumber": 99,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -501,7 +563,8 @@
     "id": 1,
     "leagueId": "b0e1e041-9478-4954-b4e0-036b7d414a26",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -509,7 +572,8 @@
     "id": 1,
     "leagueId": "b635e555-ab6e-4cc5-a5a4-d928650e35ea",
     "leagueName": "GRUPA B",
-    "orderNumber": 2
+    "orderNumber": 2,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -517,7 +581,8 @@
     "id": 1,
     "leagueId": "b8a063ef-f0c6-4a79-a9e3-eadb2013fbff",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 11
+    "orderNumber": 11,
+    "year":2022
   },
 {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -525,7 +590,8 @@
     "id": 1,
     "leagueId": "bd61b938-311f-4e39-ae66-0937a393679c",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -533,7 +599,8 @@
     "id": 1,
     "leagueId": "c205a343-ce8e-4db6-949c-0ad804bbbcbe",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
@@ -541,7 +608,8 @@
     "id": 1,
     "leagueId": "c9afe584-021a-4f54-beb0-e904ec9b5bdd",
     "leagueName": "GRUPA D",
-    "orderNumber": 4
+    "orderNumber": 4,
+    "year":2022
   },
  {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -549,7 +617,8 @@
     "id": 1,
     "leagueId": "ca13e627-9726-4e11-afc4-91c6dcc1706d",
     "leagueName": "GRUPA G",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
  {
     "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
@@ -557,7 +626,8 @@
     "id": 1,
     "leagueId": "ccb6c520-c1b9-49a2-8458-ac64e754b314",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
 {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -565,7 +635,8 @@
     "id": 1,
     "leagueId": "d0b8f0a7-e265-40a9-b7c6-2305233c44de",
     "leagueName": "1/2 FINALA",
-    "orderNumber": 9
+    "orderNumber": 9,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -573,7 +644,8 @@
     "id": 1,
     "leagueId": "d0df9e10-23d5-453e-b860-910f311df4ba",
     "leagueName": "GRUPA G",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
 {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -581,7 +653,8 @@
     "id": 1,
     "leagueId": "d3fb76f6-562b-4de8-b767-539760bb78e1",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
 {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -589,7 +662,8 @@
     "id": 1,
     "leagueId": "d414fc6b-80e6-44f1-b09f-b795373cdb8f",
     "leagueName": "GRUPA H",
-    "orderNumber": 8
+    "orderNumber": 8,
+    "year":2022
   },
  {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -597,7 +671,8 @@
     "id": 1,
     "leagueId": "d4bad19d-8c04-41e7-8f05-8ccfcc9fcf0c",
     "leagueName": "1/8 FINALA",
-    "orderNumber": 7
+    "orderNumber": 7,
+    "year":2022
   },
  {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -605,7 +680,8 @@
     "id": 1,
     "leagueId": "daa45a7a-eca1-44a2-9fc4-cac2c3d0cb99",
     "leagueName": "GRUPA E",
-    "orderNumber": 5
+    "orderNumber": 5,
+    "year":2022
   },
 {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -613,7 +689,8 @@
     "id": 1,
     "leagueId": "db42b777-2216-4fc3-8945-42f12ab0d4b5",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
  {
     "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
@@ -621,7 +698,8 @@
     "id": 1,
     "leagueId": "dca4c7d7-cc04-4a0b-a294-a07bb0e1d356",
     "leagueName": "GRUPA A",
-    "orderNumber": 1
+    "orderNumber": 1,
+    "year":2022
   },
  {
     "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
@@ -629,7 +707,8 @@
     "id": 1,
     "leagueId": "ef9d00db-3e60-4b27-a0b4-04d931ea1d39",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   },
  {
     "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
@@ -637,7 +716,8 @@
     "id": 1,
     "leagueId": "f0ba7e34-e117-4eea-ab36-41807983a1dd",
     "leagueName": "GRUPA C",
-    "orderNumber": 3
+    "orderNumber": 3,
+    "year":2022
   },
    {
     "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
@@ -645,6 +725,7 @@
     "id": 1,
     "leagueId": "f8d54a40-aad8-4929-ac9a-025203621290",
     "leagueName": "GRUPA F",
-    "orderNumber": 6
+    "orderNumber": 6,
+    "year":2022
   }
 ]
