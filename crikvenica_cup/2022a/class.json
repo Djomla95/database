@@ -1,0 +1,74 @@
+[
+ {
+   "serveId": 1,
+   "classId": "0c29bb6e-0cda-4ed8-a623-3ad7ab7a2342",
+   "ClassName": "U11 - 2011",
+   "orderNumber": 4,
+   "year": 2022,
+   "Id": 33
+ },
+ {
+   "serveId": 1,
+   "classId": "28801ff0-36c1-4679-9c91-cf02d1a493e1",
+   "ClassName": "WU11 - 2011",
+   "orderNumber": 10,
+   "year": 2022,
+   "Id": 34
+ },
+ {
+   "serveId": 1,
+   "classId": "35af310e-d4c2-44af-abf2-cfe8b2756fe7",
+   "ClassName": "U10 - 2012",
+   "orderNumber": 3,
+   "year": 2022,
+   "Id": 35
+ },
+ {
+   "serveId": 1,
+   "classId": "55dcd2fa-b014-4003-a8ed-58309bf5d9f8",
+   "ClassName": "WU13 - 2009",
+   "orderNumber": 11,
+   "year": 2022,
+   "Id": 36
+ },
+ {
+   "serveId": 1,
+   "classId": "6a8706ac-a0e3-4f6b-aa9a-fc21881354d1",
+   "ClassName": "U15 - 2007",
+   "orderNumber": 8,
+   "year": 2022,
+   "Id": 37
+ },
+ {
+   "serveId": 1,
+   "classId": "74a49fcc-a117-48ef-b58a-20757db2ef09",
+   "ClassName": "U9 - 2013",
+   "orderNumber": 2,
+   "year": 2022,
+   "Id": 38
+ },
+ {
+   "serveId": 1,
+   "classId": "b79882a2-6260-4364-ba7f-bbdf8dcade94",
+   "ClassName": "U8 - 2014",
+   "orderNumber": 1,
+   "year": 2022,
+   "Id": 39
+ },
+ {
+   "serveId": 1,
+   "classId": "f281f25c-ff65-490b-bd75-65a48703ecf5",
+   "ClassName": "U13 - 2009",
+   "orderNumber": 6,
+   "year": 2022,
+   "Id": 40
+ },
+ {
+   "serveId": 1,
+   "classId": "f305465c-5799-404c-9672-a66c8b38ab5f",
+   "ClassName": "U12 - 2010",
+   "orderNumber": 5,
+   "year": 2022,
+   "Id": 41
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+   "terenId": "39abc85a-22e9-4577-b172-a24d61db521d",
+   "terenName": "TEREN 7 - HRELJIN",
+   "terenLan": 45.286306,
+   "terenLon": 14.590482,
+   "year": 2022,
+   "Id": 10
+ },
+ {
+   "terenId": "5d6ccea0-b881-489c-a182-065705a25aa0",
+   "terenName": "TEREN 2 - CRIKVENICA",
+   "terenLan": 45.176411,
+   "terenLon": 14.694717,
+   "year": 2022,
+   "Id": 11
+ },
+ {
+   "terenId": "078efe0c-e2aa-4306-a313-bb7502621a04",
+   "terenName": "TEREN 6 - HRELJIN",
+   "terenLan": 45.286306,
+   "terenLon": 14.590482,
+   "year": 2022,
+   "Id": 12
+ },
+ {
+   "terenId": "8b84b662-4f08-4d6f-91de-2c985c585862",
+   "terenName": "TEREN 9 - JADRANOVO",
+   "terenLan": 45.22283,
+   "terenLon": 14.621349,
+   "year": 2022,
+   "Id": 13
+ },
+ {
+   "terenId": "a0be5fde-f825-49cb-8c35-06747d1ab912",
+   "terenName": "TEREN 5 - NOVI VINODOLSKI",
+   "terenLan": 45.134457,
+   "terenLon": 14.786073,
+   "year": 2022,
+   "Id": 14
+ },
+ {
+   "terenId": "8961aa11-365f-40dd-a2d2-9994bcd216b6",
+   "terenName": "TEREN 3 - CRIKVENICA",
+   "terenLan": 45.176411,
+   "terenLon": 14.694717,
+   "year": 2022,
+   "Id": 15
+ },
+ {
+   "terenId": "9c9f6a7f-260f-408a-82ac-95bb822273da",
+   "terenName": "TEREN 1 - CRIKVENICA",
+   "terenLan": 45.176411,
+   "terenLon": 14.694717,
+   "year": 2022,
+   "Id": 16
+ },
+ {
+   "terenId": "c9e0844d-4923-47fc-b9cc-b3453397fbdb",
+   "terenName": "TEREN 8 - TRIBALJ",
+   "terenLan": 45.220061,
+   "terenLon": 14.679173,
+   "year": 2022,
+   "Id": 17
+ },
+ {
+   "terenId": "ec19548f-4e3c-4599-96dc-50688b514b4c",
+   "terenName": "TEREN 4 - NOVI VINODOLSKI",
+   "terenLan": 45.134457,
+   "terenLon": 14.786073,
+   "year": 2022,
+   "Id": 18
+ }
+]
