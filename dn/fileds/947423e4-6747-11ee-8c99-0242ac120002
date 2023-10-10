@@ -4,21 +4,21 @@
 	"Fields":[
 		 {
 
-   "terenName": "TEREN 7 - HRELJIN",
-   "terenLan": 45.286306,
-   "terenLon": 14.590482,
+   "FieldName": "TEREN 7 - HRELJIN",
+   "FieldLan": 45.286306,
+   "FieldLon": 14.590482,
    "orderno": 10
  },
  {
-   "terenName": "TEREN 2 - CRIKVENICA",
-   "terenLan": 45.176411,
-   "terenLon": 14.694717,
+   "FieldName": "TEREN 2 - CRIKVENICA",
+   "FieldLan": 45.176411,
+   "FieldLon": 14.694717,
    "orderno": 11
  },
  {
-   "terenName": "TEREN 6 - HRELJIN",
-   "terenLan": 45.286306,
-   "terenLon": 14.590482,
+   "FieldName": "TEREN 6 - HRELJIN",
+   "FieldLan": 45.286306,
+   "FieldLon": 14.590482,
    "orderno": 12
  }
 ]
