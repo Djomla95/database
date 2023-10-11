@@ -25,7 +25,13 @@
    "FieldName": "TEREN 55 - banja luka",
    "FieldLan": 45.286306,
    "FieldLon": 14.590482,
-   "orderno": 12
+   "orderno": 13
+ },
+ {
+   "FieldName": "TEREN 155 - banja luka",
+   "FieldLan": 45.286306,
+   "FieldLon": 14.590482,
+   "orderno": 14
  }
 ]
 }
