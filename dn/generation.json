@@ -1,7 +1,7 @@
 {
   "status":"200",
   "errormsg":"",
-	"Tournaments":[
+	"generations":[
 		{
 		"orderno":"1",
 		"tournamenID":"7f275600-6747-11ee-8c99-0242ac120002",
