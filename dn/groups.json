@@ -1,0 +1,21 @@
+{
+  "status":"200",
+  "errormsg":"",
+	"info":[
+		 {
+   "orderno": "1",
+   "name":"Grupa A",
+       "groupId":"Grupa a"
+ },
+     {
+   "orderno": "2",
+   "name":"Grupa B",
+       "groupId":"Grupa B"
+ }
+     {
+   "orderno": "3",
+   "name":"Grupa C",
+       "groupId":"Grupa C"
+ }
+]
+}
