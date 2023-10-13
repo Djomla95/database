@@ -1,0 +1,34 @@
+{
+  "status":"200",
+  "errormsg":"",
+	"Tournaments":[
+		{
+		"orderno":"1",
+		"tournamenID":"7f275600-6747-11ee-8c99-0242ac120002",
+		"name":"blyw cup",
+		"city":"Banja Luka, BiH",
+		"sportId": 1,
+		"date": "02.02.2024",
+		"image":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec"
+},
+		{
+		"orderno":"2",
+		"tournamenID":"8f7177f2-6747-11ee-8c99-0242ac120002",
+		"name":"Zg cup",
+		"city":"Zagreb, Cro",
+		"sportId": 1,
+		"date": "15.12.2023",
+		"image":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec"
+},
+		{
+
+		"orderno":"3",
+		"tournamenID":"947423e4-6747-11ee-8c99-0242ac120002",
+		"name":"Crik cup",
+		"city":"Crk, Cro",
+		"sportId": 1,
+		"date": "02.06.2024",
+		"image":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec"
+}
+]
+}
