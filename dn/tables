@@ -1,0 +1,43 @@
+{
+  "status":"200",
+  "errormsg":"",
+	"table":[
+		{
+		"teamName":"1",
+		"teamCountry":"BA",
+		"teamPlayed":3,
+		"teamWin":2,
+		"teamDrawn": 1,
+		"teamLost": 0,
+		"teamLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+    "teamResults":"4:1",
+    "teamGoalDifference":3,
+    "teamPoints":7
+},
+		{
+		"teamName":"2",
+		"teamCountry":"SI",
+		"teamPlayed":3,
+		"teamWin":2,
+		"teamDrawn": 0,
+		"teamLost":1,
+		"teamLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+    "teamResults":"1:3",
+    "teamGoalDifference":-2,
+    "teamPoints":6
+},
+		{
+
+		"teamName":"3",
+		"teamCountry":"HU",
+		"teamPlayed":3,
+		"teamWin":0,
+		"teamDrawn": 1,
+		"teamLost":2,
+		"teamLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+    "teamResults":"0:4",
+    "teamGoalDifference":-4,
+    "teamPoints":1
+}
+]
+}
