@@ -1,0 +1,60 @@
+{
+  "status":"200",
+  "errormsg":"",
+	"event":[
+		 {
+   "orderno": "1",
+   "status":1,
+   "date":"13.10.2023",
+   "time":"11:00",
+   "filed":"TEREN 6 - BL",
+   "teamFirstLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamFirstName":"teamFirstName",
+   "teamFirstCountry":"BA",
+   "teamFirstRegularScore":1,
+   "teamFirstExtendScore":3,
+   "teamSecondLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamSecondName":"teamSecondName",
+   "teamSecondCountry":"HR",
+   "teamSecondRegularScore":"0",
+   "teamSecondExtendScore":"1"
+
+ },
+     {
+  "orderno": "2",
+   "status":1,
+   "date":"13.10.2023",
+   "time":"11:10",
+   "filed":"TEREN 2 - BL",
+   "teamFirstLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamFirstName":"teamFirstName1",
+   "teamFirstCountry":"HU",
+   "teamFirstRegularScore":0,
+   "teamFirstExtendScore":3,
+   "teamSecondLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamSecondName":"teamSecondName1",
+   "teamSecondCountry":"SR",
+   "teamSecondRegularScore":"0",
+   "teamSecondExtendScore":"1"
+
+ },
+     {
+   "orderno": "1",
+   "status":1,
+   "date":"13.10.2023",
+   "time":"12:00",
+   "filed":"TEREN 6 - BL",
+   "teamFirstLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamFirstName":"teamFirstName3",
+   "teamFirstCountry":"SI",
+   "teamFirstRegularScore":0,
+   "teamFirstExtendScore":3,
+   "teamSecondLogo":"https://firebasestorage.googleapis.com/v0/b/blywcup2022.appspot.com/o/71054402-7273-11ed-a1eb-0242ac120002%2Flogo%2Fe8070d19-7e1b-4a61-a45c-7a80a1410b68?alt=media&token=f9f51c33-f57a-4cd4-b4fd-55b5db2bc2ec",
+   "teamSecondName":"teamSecondName3",
+   "teamSecondCountry":"ME",
+   "teamSecondRegularScore":"0",
+   "teamSecondExtendScore":"1"
+
+ }
+]
+}
